@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Run the Bingo simulation
+using bingoMikes;
+
+BingoGame.Run();
+

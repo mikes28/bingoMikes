@@ -1,0 +1,15 @@
+/home/mikes/Documents/git/bingoMikes/bin/Debug/net10.0/bingoMikes
+/home/mikes/Documents/git/bingoMikes/bin/Debug/net10.0/bingoMikes.deps.json
+/home/mikes/Documents/git/bingoMikes/bin/Debug/net10.0/bingoMikes.runtimeconfig.json
+/home/mikes/Documents/git/bingoMikes/bin/Debug/net10.0/bingoMikes.dll
+/home/mikes/Documents/git/bingoMikes/bin/Debug/net10.0/bingoMikes.pdb
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.AssemblyInfoInputs.cache
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.AssemblyInfo.cs
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.csproj.CoreCompileInputs.cache
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.sourcelink.json
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.dll
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/refint/bingoMikes.dll
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.pdb
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/bingoMikes.genruntimeconfig.cache
+/home/mikes/Documents/git/bingoMikes/obj/Debug/net10.0/ref/bingoMikes.dll

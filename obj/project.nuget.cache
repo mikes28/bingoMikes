@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FAThuWZ/6c=",
+  "success": true,
+  "projectFilePath": "/home/mikes/Documents/git/bingoMikes/bingoMikes.csproj",
+  "expectedPackageFiles": [
+    "/home/mikes/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

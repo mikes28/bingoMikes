@@ -1,0 +1,1 @@
+bingo prioject in dotnet
